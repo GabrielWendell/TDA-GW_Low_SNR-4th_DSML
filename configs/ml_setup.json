@@ -1,0 +1,12 @@
+{
+  "random_state": 2025,
+  "scaler": "standard",
+  "pca_variance": null,
+  "class_weight": "balanced",
+  "feature_dirs": {
+    "pi": "data/pi",
+    "pl": "data/pl",
+    "bc": "data/bc",
+    "baseline": "data/baseline"
+  }
+}
