@@ -39,27 +39,6 @@ TDA-GW_Low_SNR-4th_DSML/
 └── requirements.txt
 ```
 
-
-
-TDA-GW_Low_SNR-4th_DSML/  
-│  
-├── src/                    # Source code (embedding, TDA, robustness, ML pipeline)  
-│ ├── embed/         # Time-delay embedding (AMI, FNN, Takens reconstruction)  
-│ ├── tda/                # Persistent homology and diagram generation  
-│ ├── baselines/     # Baseline feature computation (statistics, spectral)  
-│ ├── ml/                 # Machine Learning pipeline (training, evaluation)  
-│ ├── robust/         # Sensitivity and ablation analysis  
-│ └── interpret/     # Feature interpretation and visualization  
-│  
-├── data/                # Input and processed data (synthetic, PI/PL/BC features)  
-├── results/            # Output persistence diagrams, plots, and tables  
-├── notebooks/     # Documentation notebooks (e.g., Phase2_TDA_Analysis.ipynb)  
-├── figures/            # Figures for poster and publication  
-│  
-├── LICENSE  
-├── README.md  
-└── requirements.txt
-
 ---
 
 
@@ -129,13 +108,11 @@ Figures available in: [`results/poster/`](results/poster/)
 
 ## 🪞 Poster Reference
 
-The results of this repository were presented at  
-**“4th School on Data Science & Machine Learning (DSML 2025)”**  
-as a poster titled:  
+The results of this repository were presented at **“4th School on Data Science & Machine Learning (DSML 2025)”** as a poster titled:  
 
 > **Topological Data Analysis for Gravitational-Wave Detection under Low SNR**
 
-Poster and figures: [`results/poster/4th_School_DSML_2025_Poster.pdf`](results/poster/4th_School_DSML_2025_Poster.pdf)
+Poster and figures: [`results/poster/4th_School_DSML_2025_Poster.pdf`](https://github.com/GabrielWendell/TDA-GW_Low_SNR-4th_DSML/blob/main/results/poster/4th_School_DSML_2025_Poster.pdf)
 
 ---
 

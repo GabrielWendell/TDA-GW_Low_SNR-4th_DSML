@@ -5,7 +5,7 @@ __pycache__/
 
 # Data
 data/
-results/
+# results/
 *.npy
 *.npz
 *.csv
