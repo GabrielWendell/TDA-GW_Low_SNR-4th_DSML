@@ -82,7 +82,7 @@ Below is the **recommended order** to reproduce the results end-to-end.
 
 - **Persistence image (PI):**  
   
-  $I(x, y) = \sum_i w_i \exp{\left[\frac{(x-b_i)^2 + (y-p_i)^2}{2\sigma^2}\right]}\text{ }.$
+  $I(x, y) = \sum_i w_i \exp{\left[\frac{(x-b_i)^2 + (y-d_i)^2}{2\sigma^2}\right]}\text{ }.$
 
 - **Classification metrics:**  
   AUC, Average Precision, F1-score, and Brier reliability score.
