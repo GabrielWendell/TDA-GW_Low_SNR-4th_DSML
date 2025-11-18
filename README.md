@@ -114,6 +114,10 @@ The results of this repository were presented at **“4th School on Data Science
 
 Poster and figures: [`results/poster/4th_School_DSML_2025_Poster.pdf`](https://github.com/GabrielWendell/TDA-GW_Low_SNR-4th_DSML/blob/main/results/poster/4th_School_DSML_2025_Poster.pdf)
 
+You can also check out a 15-minute seminar I gave at IIP on the topic of [*Topological Data Analysis Applied to Complex Systems*](https://www.youtube.com/watch?v=KZo9ciaaBKI&list=PLqTLz9G2bGs2-ToEsAuUg3u6ZASY1UbAk&index=23&t=625s) for a more basic reference on the fundamentals of TDA.
+
+<img src = "docs/IIP_Seminar_Img.png" width="700" height="300">
+
 ---
 
 ## 📜 License
