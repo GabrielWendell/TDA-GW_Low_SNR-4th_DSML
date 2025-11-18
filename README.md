@@ -74,21 +74,15 @@ Below is the **recommended order** to reproduce the results end-to-end.
 
 - **Time-delay embedding:**  
   
-  $
-  \Phi(t) = \left[x(t), x(t - \tau), \dots, x(t - (m-1)\tau)\right]\text{ }.
-  $
+  $\Phi(t) = \left[x(t), x(t - \tau), \dots, x(t - (m-1)\tau)\right]\text{ }.$
 
 - **Vietoris–Rips filtration:**  
   
-  $
-  R_\epsilon(X) = \{ [v_0,\dots,v_k] : d(v_i,v_j) \leq \epsilon \}\text{ }.
-  $
+  $R_\epsilon(X) = \{ [v_0,\dots,v_k] : d(v_i,v_j) \leq \epsilon \}\text{ }.$
 
 - **Persistence image (PI):**  
   
-  $
-  I(x, y) = \sum_i w_i \exp{\left[\frac{(x-b_i)^2 + (y-p_i)^2}{2\sigma^2}\right]}\text{ }.
-  $
+  $I(x, y) = \sum_i w_i \exp{\left[\frac{(x-b_i)^2 + (y-p_i)^2}{2\sigma^2}\right]}\text{ }.$
 
 - **Classification metrics:**  
   AUC, Average Precision, F1-score, and Brier reliability score.
